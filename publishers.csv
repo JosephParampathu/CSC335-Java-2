@@ -1,0 +1,284 @@
+genre,sold by,daily average.amazon revenue,daily average.author revenue,daily average.gross sales,daily average.publisher revenue,daily average.units sold,publisher.name,publisher.type,statistics.average rating,statistics.sale price,statistics.sales rank,statistics.total reviews
+genre fiction,HarperCollins Publishers,6832.0,6832.0,34160.0,20496.0,7000,Katherine Tegen Books,big five,4.57,4.88,1,9604
+genre fiction,HarperCollins Publishers,2487.5,2487.5,12437.5,7462.5,6250,HarperCollins e-books,big five,4.47,1.99,2,450
+genre fiction,"Amazon Digital Services,  Inc.",9559.0,9559.0,47795.0,28677.0,5500,(Small or Medium Publisher),small/medium,4.16,8.69,3,30
+fiction,Hachette Book Group,8250.0,8250.0,41250.0,24750.0,5500,"Little, Brown and Company",big five,3.84,7.5,3,3747
+genre fiction,Penguin Group (USA) LLC,7590.5,7590.5,37952.5,22771.5,4750,Dutton Children's,big five,4.75,7.99,4,9174
+genre fiction,"Amazon Digital Services,  Inc.",12974.0,6986.0,19960.0,0.0,4000,Thomas & Mercer,amazon,4.05,4.99,5,40
+genre fiction,HarperCollins Publishers,5498.334,5498.334,27491.67,16495.002,3933,Katherine Tegen Books,big five,3.16,6.99,6,7026
+nonfiction,Hachette Book Group,5236.4,5236.4,26182.0,15709.2,3800,Center Street,big five,4.31,6.89,8,369
+genre fiction,HarperCollins Publishers,5218.734,5218.734,26093.67,15656.202,3733,Katherine Tegen Books,big five,4.58,6.99,9,5926
+genre fiction,Random House LLC,4758.468,4758.468,23792.34,14275.404,3666,Doubleday,big five,4.52,6.49,10,7132
+genre fiction,"Amazon Digital Services,  Inc.",11676.6,6287.4,17964.0,0.0,3600,Thomas & Mercer,amazon,4.51,4.99,11,39
+fiction,Penguin Group (USA) LLC,4312.8,4312.8,21564.0,12938.4,3600,Putnam Adult,big five,4.31,5.99,11,5113
+genre fiction,"Amazon Digital Services,  Inc.",2230.371,1200.969,3431.34,0.0,3466,(Indie Publisher),indie,4.11,0.99,13,182
+genre fiction,HarperCollins Publishers,1379.468,1379.468,6897.34,4138.404,3466,William Morrow Paperbacks,big five,4.59,1.99,13,2508
+genre fiction,Random House LLC,4359.564,4359.564,21797.82,13078.692,3333,Knopf Books for Young Readers,big five,4.64,6.54,15,7953
+genre fiction,"Amazon Digital Services,  Inc.",10593.271,5704.069,16297.34,0.0,3266,Thomas & Mercer,amazon,4.1,4.99,16,890
+genre fiction,"Amazon Digital Services,  Inc.",10379.2,5588.8,15968.0,0.0,3200,Skyscape,amazon,4.5,4.99,17,36
+genre fiction,"Amazon Digital Services,  Inc.",10379.2,5588.8,15968.0,0.0,3200,Amazon Publishing,amazon,3.87,4.99,17,16
+genre fiction,Simon and Schuster Digital Sales Inc,1246.934,1246.934,6234.67,3740.802,3133,Simon & Schuster,big five,4.49,1.99,18,1734
+genre fiction,"Amazon Digital Services,  Inc.",1972.971,1062.369,3035.34,0.0,3066,(Indie Publisher),indie,4.63,0.99,19,113
+genre fiction,"Amazon Digital Services,  Inc.",7606.7355,4095.9345,11702.67,0.0,2933,Amazon Publishing,amazon,4.43,3.99,21,2747
+genre fiction,"Amazon Digital Services,  Inc.",2570.802,5998.538,8569.34,0.0,2866,(Indie Publisher),indie,4.55,2.99,22,640
+genre fiction,"Amazon Digital Services,  Inc.",1801.8,970.2,2772.0,0.0,2800,(Indie Publisher),indie,4.38,0.99,23,149
+genre fiction,"Amazon Digital Services,  Inc.",2451.501,5720.169,8171.67,0.0,2733,(Indie Publisher),indie,4.02,2.99,24,231
+genre fiction,"Amazon Digital Services,  Inc.",527.868,527.868,2639.34,1583.604,2666,(Single-Author Publisher),single author,4.36,0.99,25,611
+genre fiction,"Amazon Digital Services,  Inc.",2332.2,5441.8,7774.0,0.0,2600,(Indie Publisher),indie,4.62,2.99,26,229
+genre fiction,Penguin Group (USA) LLC,5380.812,5380.812,26904.06,16142.436,2466,Viking Adult,big five,4.4,10.91,28,701
+genre fiction,"Amazon Digital Services,  Inc.",1544.4,831.6,2376.0,0.0,2400,(Indie Publisher),indie,4.71,0.99,29,84
+nonfiction,Hachette Book Group,1915.2,1915.2,9576.0,5745.6,2400,"Little, Brown and Company",big five,4.63,3.99,29,5369
+genre fiction,"Amazon Digital Services,  Inc.",2792.601,6516.069,9308.67,0.0,2333,(Indie Publisher),indie,4.67,3.99,30,129
+genre fiction,"Amazon Digital Services,  Inc.",2931.071,1578.269,4509.34,0.0,2266,Montlake Romance,amazon,4.25,1.99,31,111
+genre fiction,"Amazon Digital Services,  Inc.",1415.7,762.3,2178.0,0.0,2200,(Indie Publisher),indie,4.67,0.99,32,161
+genre fiction,HarperCollins Publishers,2635.6,2635.6,13178.0,7906.8,2200,William Morrow,big five,4.19,5.99,32,308
+nonfiction,HarperCollins Publishers,409.068,409.068,2045.34,1227.204,2066,HarperPerennial Classics,big five,4.62,0.99,34,1490
+genre fiction,Random House LLC,3596.0,3596.0,17980.0,10788.0,2000,Crown,big five,3.77,8.99,35,16062
+genre fiction,"Amazon Digital Services,  Inc.",1276.704,687.456,1964.16,0.0,1984,(Indie Publisher),indie,4.34,0.99,36,1684
+genre fiction,"Amazon Digital Services,  Inc.",392.832,392.832,1964.16,1178.496,1984,(Single-Author Publisher),single author,4.53,0.99,36,66
+genre fiction,"Amazon Digital Services,  Inc.",1267.0515,682.2585,1949.31,0.0,1969,(Indie Publisher),indie,4.85,0.99,37,14
+genre fiction,"Amazon Digital Services,  Inc.",1267.0515,682.2585,1949.31,0.0,1969,(Indie Publisher),indie,4.67,0.99,37,28
+genre fiction,Random House LLC,4061.91,4061.91,20309.55,12185.73,1907,Random House,big five,4.31,10.65,41,66
+genre fiction,"Amazon Digital Services,  Inc.",1217.502,655.578,1873.08,0.0,1892,(Indie Publisher),indie,4.28,0.99,42,76
+genre fiction,"Amazon Digital Services,  Inc.",2245.572,5239.668,7485.24,0.0,1876,(Indie Publisher),indie,4.28,3.99,43,5498
+genre fiction,"Amazon Digital Services,  Inc.",740.678,740.678,3703.39,2222.034,1861,(Single-Author Publisher),single author,4.4,1.99,44,75
+genre fiction,HarperCollins Publishers,2211.508,2211.508,11057.54,6634.524,1846,HarperCollins e-books,big five,4.02,5.99,45,104
+genre fiction,"Amazon Digital Services,  Inc.",2558.34,2558.34,12791.7,7675.02,1830,(Small or Medium Publisher),small/medium,4.19,6.99,46,13962
+genre fiction,"Amazon Digital Services,  Inc.",5838.3,3143.7,8982.0,0.0,1800,47North,amazon,4.12,4.99,48,141
+nonfiction,"Amazon Digital Services,  Inc.",716.4,716.4,3582.0,2149.2,1800,(Small or Medium Publisher),small/medium,4.12,1.99,48,33
+nonfiction,"Amazon Digital Services,  Inc.",353.232,353.232,1766.16,1059.696,1784,(Single-Author Publisher),single author,5.0,0.99,49,9
+genre fiction,Penguin Group (USA) LLC,2119.262,2119.262,10596.31,6357.786,1769,Putnam Adult,big five,4.28,5.99,50,1364
+genre fiction,Hachette Book Group,3011.654,3011.654,15058.27,9034.962,1753,"Little, Brown and Company",big five,4.56,8.59,51,157
+genre fiction,"Amazon Digital Services,  Inc.",344.124,344.124,1720.62,1032.372,1738,(Small or Medium Publisher),small/medium,4.92,0.99,52,42
+genre fiction,Random House LLC,341.154,341.154,1705.77,1023.462,1723,Loveswept,big five,4.21,0.99,53,41
+genre fiction,"Amazon Digital Services,  Inc.",5536.6545,2981.2755,8517.93,0.0,1707,Montlake Romance,amazon,4.52,4.99,54,258
+genre fiction,Macmillan,335.016,335.016,1675.08,1005.048,1692,Entangled: Brazen,big five,4.59,0.99,55,114
+genre fiction,"Amazon Digital Services,  Inc.",2006.172,4681.068,6687.24,0.0,1676,(Indie Publisher),indie,4.95,3.99,56,310
+genre fiction,Penguin Group (USA) LLC,993.278,993.278,4966.39,2979.834,1661,Berkley,big five,4.26,2.99,57,2028
+genre fiction,"Amazon Digital Services,  Inc.",325.908,325.908,1629.54,977.724,1646,(Small or Medium Publisher),small/medium,3.86,0.99,58,38
+genre fiction,Penguin Group (USA) LLC,3556.66,3556.66,17783.3,10669.98,1630,Dutton Adult,big five,4.44,10.91,59,354
+genre fiction,"Amazon Digital Services,  Inc.",1048.905,564.795,1613.7,0.0,1630,(Indie Publisher),indie,4.79,0.99,59,339
+genre fiction,Hachette Book Group,3678.97,3678.97,18394.85,11036.91,1615,"Little, Brown and Company",big five,4.45,11.39,60,1603
+genre fiction,Random House LLC,2076.8,2076.8,10384.0,6230.4,1600,Bantam,big five,4.0,6.49,61,2659
+genre fiction,"Amazon Digital Services,  Inc.",1896.048,4424.112,6320.16,0.0,1584,(Indie Publisher),indie,4.61,3.99,62,505
+genre fiction,"Amazon Digital Services,  Inc.",1412.1,3294.9,4707.0,0.0,1569,(Indie Publisher),indie,4.67,3.0,63,199
+genre fiction,"Amazon Digital Services,  Inc.",989.703,532.917,1522.62,0.0,1538,(Indie Publisher),indie,4.87,0.99,65,32
+genre fiction,"Amazon Digital Services,  Inc.",1777.341,4147.129,5924.47,0.0,1523,(Indie Publisher),indie,4.48,3.89,66,1257
+genre fiction,"Amazon Digital Services,  Inc.",7826.6045,4214.3255,12040.93,0.0,1507,AmazonEncore,amazon,4.25,7.99,67,3965
+genre fiction,Hachette Book Group,2682.616,2682.616,13413.08,8047.848,1492,Grand Central Publishing,big five,4.32,8.99,68,1402
+genre fiction,"Amazon Digital Services,  Inc.",1889.8035,1017.5865,2907.39,0.0,1461,(Indie Publisher),indie,4.64,1.99,70,45
+genre fiction,Penguin Group (USA) LLC,2310.708,2310.708,11553.54,6932.124,1446,Berkley,big five,3.55,7.99,71,45
+genre fiction,"Amazon Digital Services,  Inc.",3708.705,1996.995,5705.7,0.0,1430,Skyscape,amazon,4.38,3.99,72,18
+genre fiction,Penguin Group (USA) LLC,1978.17,1978.17,9890.85,5934.51,1415,Penguin Books,big five,4.66,6.99,73,2851
+genre fiction,Hachette Book Group,1049.072,1049.072,5245.36,3147.216,1384,Forever,big five,4.33,3.79,75,116
+nonfiction,"Amazon Digital Services,  Inc.",1165.328,1165.328,5826.64,3495.984,1384,(Single-Author Publisher),single author,4.33,4.21,75,86
+genre fiction,Hachette Book Group,544.862,544.862,2724.31,1634.586,1369,Grand Central Publishing,big five,4.61,1.99,76,18
+genre fiction,Hachette Book Group,1092.462,1092.462,5462.31,3277.386,1369,Forever,big five,4.53,3.99,76,145
+genre fiction,"Amazon Digital Services,  Inc.",4388.4555,2363.0145,6751.47,0.0,1353,47North,amazon,4.28,4.99,77,1180
+genre fiction,"Amazon Digital Services,  Inc.",2002.986,4673.634,6676.62,0.0,1338,(Indie Publisher),indie,4.51,4.99,78,1230
+genre fiction,"Amazon Digital Services,  Inc.",261.954,261.954,1309.77,785.862,1323,(Single-Author Publisher),single author,3.5,0.99,79,36
+genre fiction,HarperCollins Publishers,1186.756,1186.756,5933.78,3560.268,1307,William Morrow Paperbacks,big five,4.62,4.54,80,78
+genre fiction,Hachette Book Group,1696.486,1696.486,8482.43,5089.458,1307,Grand Central Publishing,big five,4.57,6.49,80,3156
+genre fiction,Random House LLC,1289.416,1289.416,6447.08,3868.248,1292,Vintage,big five,3.38,4.99,81,23362
+nonfiction,HarperCollins Publishers,507.848,507.848,2539.24,1523.544,1276,HarperCollins e-books,big five,4.65,1.99,82,140
+genre fiction,"Amazon Digital Services,  Inc.",1472.31,3435.39,4907.7,0.0,1230,(Indie Publisher),indie,4.64,3.99,85,251
+genre fiction,"Amazon Digital Services,  Inc.",781.8525,420.9975,1202.85,0.0,1215,(Indie Publisher),indie,4.67,0.99,86,98
+genre fiction,HarperCollins Publishers,483.57,483.57,2417.85,1450.71,1215,HarperCollins e-books,big five,4.03,1.99,86,637
+genre fiction,"Amazon Digital Services,  Inc.",772.2,415.8,1188.0,0.0,1200,(Indie Publisher),indie,4.83,0.99,87,6
+fiction,"Amazon Digital Services,  Inc.",1552.2,835.8,2388.0,0.0,1200,AmazonEncore,amazon,4.3,1.99,87,1760
+genre fiction,Macmillan,471.232,471.232,2356.16,1413.696,1184,St. Martin's Press,big five,4.41,1.99,88,882
+genre fiction,"Amazon Digital Services,  Inc.",231.462,231.462,1157.31,694.386,1169,(Small or Medium Publisher),small/medium,4.76,0.99,89,34
+genre fiction,"Amazon Digital Services,  Inc.",231.462,231.462,1157.31,694.386,1169,(Small or Medium Publisher),small/medium,4.33,0.99,89,21
+genre fiction,"Amazon Digital Services,  Inc.",722.6505,389.1195,1111.77,0.0,1123,(Indie Publisher),indie,4.5,0.99,92,63
+genre fiction,"Amazon Digital Services,  Inc.",1120.754,1120.754,5603.77,3362.262,1123,(Small or Medium Publisher),small/medium,4.64,4.99,92,19837
+genre fiction,Macmillan,440.586,440.586,2202.93,1321.758,1107,St. Martin's Press,big five,4.06,1.99,93,1060
+genre fiction,Random House LLC,1396.648,1396.648,6983.24,4189.944,1076,Doubleday,big five,3.91,6.49,95,13060
+genre fiction,Random House LLC,1377.178,1377.178,6885.89,4131.534,1061,Bantam,big five,4.16,6.49,96,1223
+nonfiction,"Amazon Digital Services,  Inc.",207.108,207.108,1035.54,621.324,1046,(Small or Medium Publisher),small/medium,4.27,0.99,97,81
+genre fiction,"Amazon Digital Services,  Inc.",662.805,356.895,1019.7,0.0,1030,(Indie Publisher),indie,4.62,0.99,98,381
+genre fiction,"Amazon Digital Services,  Inc.",1823.955,4255.895,6079.85,0.0,1015,(Indie Publisher),indie,4.58,5.99,99,168
+genre fiction,Penguin Group (USA) LLC,1386.49,1386.49,6932.45,4159.47,1015,Razorbill,big five,4.45,6.83,99,722
+genre fiction,"Amazon Digital Services,  Inc.",640.2825,344.7675,985.05,0.0,995,(Indie Publisher),indie,4.45,0.99,101,507
+genre fiction,Penguin Group (USA) LLC,1013.76,1013.76,5068.8,3041.28,990,Berkley,big five,4.73,5.12,102,288
+fiction,"Amazon Digital Services,  Inc.",439.04,439.04,2195.2,1317.12,980,(Small or Medium Publisher),small/medium,3.62,2.24,104,224
+genre fiction,Hachette Book Group,1462.5,1462.5,7312.5,4387.5,975,"Little, Brown and Company",big five,3.6,7.5,105,2062
+genre fiction,"Amazon Digital Services,  Inc.",624.195,336.105,960.3,0.0,970,(Indie Publisher),indie,4.0,0.99,106,3
+genre fiction,Penguin Group (USA) LLC,2044.8,2044.8,10224.0,6134.4,960,Berkley,big five,4.58,10.65,108,36
+genre fiction,Penguin Group (USA) LLC,1534.08,1534.08,7670.4,4602.24,960,Berkley,big five,0.0,7.99,108,0
+genre fiction,"Amazon Digital Services,  Inc.",1222.3575,658.1925,1880.55,0.0,945,Montlake Romance,amazon,4.38,1.99,111,93
+genre fiction,Macmillan,938.12,938.12,4690.6,2814.36,940,St. Martin's Press,big five,4.37,4.99,112,901
+genre fiction,Penguin Group (USA) LLC,746.13,746.13,3730.65,2238.39,935,InterMix,big five,4.0,3.99,113,208
+genre fiction,"Amazon Digital Services,  Inc.",1202.955,647.745,1850.7,0.0,930,(Indie Publisher),indie,4.19,1.99,114,87
+genre fiction,"Amazon Digital Services,  Inc.",1196.0,1196.0,5980.0,3588.0,920,(Small or Medium Publisher),small/medium,4.64,6.5,116,13290
+genre fiction,Random House LLC,181.17,181.17,905.85,543.51,915,Loveswept,big five,4.33,0.99,117,24
+fiction,"Amazon Digital Services,  Inc.",1551.84,1551.84,7759.2,4655.52,915,(Small or Medium Publisher),small/medium,3.82,8.48,117,388
+genre fiction,"Amazon Digital Services,  Inc.",585.585,315.315,900.9,0.0,910,(Indie Publisher),indie,4.84,0.99,118,197
+genre fiction,"Amazon Digital Services,  Inc.",179.19,179.19,895.95,537.57,905,(Single-Author Publisher),single author,4.68,0.99,119,219
+genre fiction,"Amazon Digital Services,  Inc.",579.15,311.85,891.0,0.0,900,(Indie Publisher),indie,4.3,0.99,120,20
+nonfiction,Macmillan,1168.2,1168.2,5841.0,3504.6,900,Henry Holt and Co.,big five,4.32,6.49,120,4549
+nonfiction,Random House LLC,2146.21,2146.21,10731.05,6438.63,895,Knopf,big five,4.24,11.99,121,384
+genre fiction,"Amazon Digital Services,  Inc.",798.33,1862.77,2661.1,0.0,890,(Indie Publisher),indie,5.0,2.99,122,39
+fiction,HarperCollins Publishers,354.22,354.22,1771.1,1062.66,890,HarperCollins e-books,big five,4.23,1.99,122,152
+genre fiction,"Amazon Digital Services,  Inc.",1059.345,2471.805,3531.15,0.0,885,(Indie Publisher),indie,4.61,3.99,123,218
+genre fiction,Simon and Schuster Digital Sales Inc,1305.0,1305.0,6525.0,3915.0,870,Scribner,big five,4.58,7.5,126,4938
+genre fiction,"Amazon Digital Services,  Inc.",1035.405,2415.945,3451.35,0.0,865,(Indie Publisher),indie,4.49,3.99,127,100
+genre fiction,Random House LLC,1374.28,1374.28,6871.4,4122.84,860,Vintage,big five,4.29,7.99,128,9263
+genre fiction,"Amazon Digital Services,  Inc.",168.3,168.3,841.5,504.9,850,(Single-Author Publisher),single author,0.0,0.99,130,0
+genre fiction,Hachette Book Group,2026.31,2026.31,10131.55,6078.93,845,"Little, Brown and Company",big five,4.34,11.99,131,20
+genre fiction,Random House LLC,1342.32,1342.32,6711.6,4026.96,840,Vintage,big five,4.28,7.99,132,9263
+genre fiction,"Amazon Digital Services,  Inc.",530.8875,285.8625,816.75,0.0,825,(Indie Publisher),indie,4.04,0.99,135,234
+nonfiction,HarperCollins Publishers,328.35,328.35,1641.75,985.05,825,Harper,big five,4.31,1.99,135,271
+nonfiction,Random House LLC,1139.37,1139.37,5696.85,3418.11,815,Random House,big five,4.77,6.99,137,6544
+genre fiction,"Amazon Digital Services,  Inc.",726.57,1695.33,2421.9,0.0,810,(Indie Publisher),indie,4.77,2.99,138,61
+genre fiction,Penguin Group (USA) LLC,1714.65,1714.65,8573.25,5143.95,805,Putnam Adult,big five,4.16,10.65,139,251
+genre fiction,"Amazon Digital Services,  Inc.",957.6,2234.4,3192.0,0.0,800,(Indie Publisher),indie,4.78,3.99,140,1325
+genre fiction,"Amazon Digital Services,  Inc.",158.4,158.4,792.0,475.2,800,(Small or Medium Publisher),small/medium,4.87,0.99,140,221
+genre fiction,"Amazon Digital Services,  Inc.",951.615,2220.435,3172.05,0.0,795,(Indie Publisher),indie,4.79,3.99,141,78
+nonfiction,"Amazon Digital Services,  Inc.",314.42,314.42,1572.1,943.26,790,(Small or Medium Publisher),small/medium,3.4,1.99,142,5
+genre fiction,Penguin Group (USA) LLC,1882.43,1882.43,9412.15,5647.29,785,Putnam Adult,big five,0.0,11.99,143,0
+genre fiction,"Amazon Digital Services,  Inc.",933.66,2178.54,3112.2,0.0,780,(Indie Publisher),indie,5.0,3.99,144,31
+genre fiction,Simon and Schuster Digital Sales Inc,1653.85,1653.85,8269.25,4961.55,775,Margaret K. McElderry Books,big five,0.0,10.67,145,0
+genre fiction,HarperCollins Publishers,302.48,302.48,1512.4,907.44,760,HarperCollins e-books,big five,4.04,1.99,148,305
+genre fiction,"Amazon Digital Services,  Inc.",903.735,2108.715,3012.45,0.0,755,(Indie Publisher),indie,4.69,3.99,149,225
+genre fiction,"Amazon Digital Services,  Inc.",2432.625,1309.875,3742.5,0.0,750,Montlake Romance,amazon,4.1,4.99,150,683
+genre fiction,"Amazon Digital Services,  Inc.",1945.125,1047.375,2992.5,0.0,750,Amazon Publishing,amazon,4.28,3.99,150,1206
+genre fiction,Random House LLC,743.51,743.51,3717.55,2230.53,745,Dell,big five,4.14,4.99,151,6312
+genre fiction,Macmillan,590.52,590.52,2952.6,1771.56,740,Tor Books,big five,4.56,3.99,152,7381
+genre fiction,"Amazon Digital Services,  Inc.",472.9725,254.6775,727.65,0.0,735,(Indie Publisher),indie,3.72,0.99,153,81
+genre fiction,"Amazon Digital Services,  Inc.",2367.755,1274.945,3642.7,0.0,730,Montlake Romance,amazon,4.35,4.99,154,119
+genre fiction,Random House LLC,1088.95,1088.95,5444.75,3266.85,725,Broadway Books,big five,4.17,7.51,155,1998
+genre fiction,"Amazon Digital Services,  Inc.",463.32,249.48,712.8,0.0,720,(Indie Publisher),indie,4.31,0.99,156,203
+genre fiction,"Amazon Digital Services,  Inc.",456.885,246.015,702.9,0.0,710,(Indie Publisher),indie,4.29,0.99,158,1106
+genre fiction,"Amazon Digital Services,  Inc.",139.59,139.59,697.95,418.77,705,(Small or Medium Publisher),small/medium,4.17,0.99,159,204
+genre fiction,Hachette Book Group,1118.6,1118.6,5593.0,3355.8,700,Reagan Arthur Books,big five,3.6,7.99,160,1783
+genre fiction,HarperCollins Publishers,270.64,270.64,1353.2,811.92,680,HarperCollins e-books,big five,4.34,1.99,164,102
+nonfiction,"Amazon Digital Services,  Inc.",133.65,133.65,668.25,400.95,675,(Small or Medium Publisher),small/medium,4.11,0.99,165,9
+genre fiction,"Amazon Digital Services,  Inc.",735.66,735.66,3678.3,2206.98,670,(Small or Medium Publisher),small/medium,4.35,5.49,166,14
+genre fiction,"Amazon Digital Services,  Inc.",131.67,131.67,658.35,395.01,665,(Small or Medium Publisher),small/medium,4.42,0.99,167,101
+genre fiction,Random House LLC,1562.88,1562.88,7814.4,4688.64,660,Ballantine Books,big five,0.0,11.84,168,0
+genre fiction,"Amazon Digital Services,  Inc.",421.4925,226.9575,648.45,0.0,655,(Indie Publisher),indie,4.5,0.99,169,10
+genre fiction,Random House LLC,1963.69,1963.69,9818.45,5891.07,655,Vintage,big five,4.3,14.99,169,8339
+genre fiction,"Amazon Digital Services,  Inc.",2108.275,1135.225,3243.5,0.0,650,Skyscape,amazon,4.42,4.99,170,1505
+genre fiction,"Amazon Digital Services,  Inc.",583.05,1360.45,1943.5,0.0,650,(Indie Publisher),indie,4.29,2.99,170,96
+genre fiction,"Amazon Digital Services,  Inc.",2092.0575,1126.4925,3218.55,0.0,645,47North,amazon,4.65,4.99,171,89
+genre fiction,Random House LLC,894.72,894.72,4473.6,2684.16,640,Delacorte Press,big five,4.24,6.99,172,3806
+genre fiction,Simon and Schuster Digital Sales Inc,1132.74,1132.74,5663.7,3398.22,630,Scribner,big five,4.41,8.99,174,5195
+genre fiction,"Amazon Digital Services,  Inc.",395.7525,213.0975,608.85,0.0,615,(Indie Publisher),indie,4.5,0.99,177,20
+genre fiction,"Amazon Digital Services,  Inc.",120.78,120.78,603.9,362.34,610,(Small or Medium Publisher),small/medium,4.63,0.99,178,22
+genre fiction,"Amazon Digital Services,  Inc.",786.5,423.5,1210.0,0.0,605,Skyscape,amazon,4.11,2.0,179,1033
+genre fiction,"Amazon Digital Services,  Inc.",386.1,207.9,594.0,0.0,600,(Indie Publisher),indie,4.26,0.99,180,351
+genre fiction,"Amazon Digital Services,  Inc.",1062.075,2478.175,3540.25,0.0,595,(Indie Publisher),indie,4.68,5.95,181,76
+genre fiction,Penguin Group (USA) LLC,712.81,712.81,3564.05,2138.43,595,Berkley,big five,4.94,5.99,181,116
+genre fiction,"Amazon Digital Services,  Inc.",234.82,234.82,1174.1,704.46,590,(Small or Medium Publisher),small/medium,4.69,1.99,182,56
+genre fiction,Macmillan,1040.13,1040.13,5200.65,3120.39,585,Feiwel & Friends,big five,4.89,8.89,183,37
+genre fiction,"Amazon Digital Services,  Inc.",370.0125,199.2375,569.25,0.0,575,(Indie Publisher),indie,4.24,0.99,185,33
+genre fiction,"Amazon Digital Services,  Inc.",737.295,397.005,1134.3,0.0,570,(Indie Publisher),indie,3.91,1.99,186,268
+genre fiction,"Amazon Digital Services,  Inc.",497.835,1161.615,1659.45,0.0,555,(Indie Publisher),indie,3.94,2.99,189,37
+genre fiction,Penguin Group (USA) LLC,886.89,886.89,4434.45,2660.67,555,Riverhead,big five,4.15,7.99,189,5042
+nonfiction,"Amazon Digital Services,  Inc.",108.9,108.9,544.5,326.7,550,(Small or Medium Publisher),small/medium,4.62,0.99,190,1490
+genre fiction,"Amazon Digital Services,  Inc.",347.49,187.11,534.6,0.0,540,(Indie Publisher),indie,4.9,0.99,192,11
+genre fiction,"Amazon Digital Services,  Inc.",646.38,1508.22,2154.6,0.0,540,(Indie Publisher),indie,4.75,3.99,192,68
+nonfiction,Random House LLC,319.93,319.93,1599.65,959.79,535,Broadway Books,big five,4.46,2.99,193,1980
+genre fiction,Macmillan,104.94,104.94,524.7,314.82,530,Entangled: Brazen,big five,4.5,0.99,194,100
+nonfiction,"Amazon Digital Services,  Inc.",204.97,204.97,1024.85,614.91,515,(Small or Medium Publisher),small/medium,4.51,1.99,197,29
+genre fiction,"Amazon Digital Services,  Inc.",457.47,1067.43,1524.9,0.0,510,(Indie Publisher),indie,4.27,2.99,198,36
+genre fiction,"Amazon Digital Services,  Inc.",402.99,402.99,2014.95,1208.97,505,(Single-Author Publisher),single author,4.5,3.99,199,90
+genre fiction,Penguin Group (USA) LLC,1086.636,1086.636,5433.18,3259.908,498,Viking Adult,big five,4.41,10.91,201,702
+genre fiction,"Amazon Digital Services,  Inc.",444.912,1038.128,1483.04,0.0,496,(Indie Publisher),indie,4.4,2.99,202,42
+genre fiction,HarperCollins Publishers,590.182,590.182,2950.91,1770.546,491,Avon,big five,4.47,6.01,205,153
+genre fiction,Hachette Book Group,489.02,489.02,2445.1,1467.06,490,Grand Central Publishing,big five,4.38,4.99,206,3083
+genre fiction,"Amazon Digital Services,  Inc.",96.624,96.624,483.12,289.872,488,(Small or Medium Publisher),small/medium,4.43,0.99,207,76
+fiction,Penguin Group (USA) LLC,521.184,521.184,2605.92,1563.552,488,Speak,big five,4.47,5.34,207,1264
+genre fiction,Penguin Group (USA) LLC,1053.906,1053.906,5269.53,3161.718,483,Putnam Adult,big five,4.33,10.91,210,165
+nonfiction,HarperCollins Publishing,411.516,411.516,2057.58,1234.548,483,Zondervan,big five,0.0,4.26,210,0
+genre fiction,"Amazon Digital Services,  Inc.",309.5235,166.6665,476.19,0.0,481,(Indie Publisher),indie,4.95,0.99,211,86
+genre fiction,"Amazon Digital Services,  Inc.",95.04,95.04,475.2,285.12,480,(Single-Author Publisher),single author,4.63,0.99,212,65
+genre fiction,"Amazon Digital Services,  Inc.",428.766,1000.454,1429.22,0.0,478,(Indie Publisher),indie,4.88,2.99,213,17
+genre fiction,Random House LLC,1050.644,1050.644,5253.22,3151.932,478,Ballantine Books,big five,0.0,10.99,213,0
+genre fiction,"Amazon Digital Services,  Inc.",426.972,996.268,1423.24,0.0,476,(Indie Publisher),indie,4.93,2.99,214,188
+genre fiction,Hachette Book Group,475.048,475.048,2375.24,1425.144,476,Forever,big five,4.64,4.99,214,48
+genre fiction,"Amazon Digital Services,  Inc.",305.6625,164.5875,470.25,0.0,475,(Indie Publisher),indie,4.18,0.99,215,631
+genre fiction,"Amazon Digital Services,  Inc.",94.05,94.05,470.25,282.15,475,(Single-Author Publisher),single author,4.52,0.99,215,65
+genre fiction,"Amazon Digital Services,  Inc.",419.796,979.524,1399.32,0.0,468,(Indie Publisher),indie,4.85,2.99,219,382
+genre fiction,"Amazon Digital Services,  Inc.",299.871,161.469,461.34,0.0,466,(Indie Publisher),indie,4.85,0.99,220,7
+genre fiction,"Amazon Digital Services,  Inc.",418.002,975.338,1393.34,0.0,466,(Indie Publisher),indie,4.3,2.99,220,72
+genre fiction,Macmillan,92.07,92.07,460.35,276.21,465,Entangled: Brazen,big five,4.64,0.99,221,73
+genre fiction,Random House LLC,91.08,91.08,455.4,273.24,460,Bantam,big five,4.47,0.99,224,629
+genre fiction,"Amazon Digital Services,  Inc.",296.01,159.39,455.4,0.0,460,(Indie Publisher),indie,4.62,0.99,224,77
+genre fiction,"Amazon Digital Services,  Inc.",2368.236,1275.204,3643.44,0.0,456,Amazon Publishing,amazon,4.18,7.99,226,1705
+genre fiction,"Amazon Digital Services,  Inc.",363.09,363.09,1815.45,1089.27,455,(Small or Medium Publisher),small/medium,3.97,3.99,227,201
+genre fiction,Simon and Schuster Digital Sales Inc,1000.09,1000.09,5000.45,3000.27,455,Threshold Editions,big five,0.0,10.99,227,0
+genre fiction,Random House LLC,1039.182,1039.182,5195.91,3117.546,453,Knopf,big five,4.74,11.47,228,99
+nonfiction,"Amazon Digital Services,  Inc.",291.5055,156.9645,448.47,0.0,453,(Indie Publisher),indie,4.62,0.99,228,48
+genre fiction,Penguin Group (USA) LLC,450.098,450.098,2250.49,1350.294,451,Penguin Books,big five,3.6,4.99,229,1517
+genre fiction,Random House LLC,958.5,958.5,4792.5,2875.5,450,Del Rey,big five,4.65,10.65,230,123
+genre fiction,Penguin Group (USA) LLC,954.24,954.24,4771.2,2862.72,448,Dutton Adult,big five,4.66,10.65,231,75
+genre fiction,"Amazon Digital Services,  Inc.",88.704,88.704,443.52,266.112,448,(Single-Author Publisher),single author,4.87,0.99,231,47
+genre fiction,Simon and Schuster Digital Sales Inc,264.914,264.914,1324.57,794.742,443,Gallery Books,big five,4.75,2.99,234,468
+genre fiction,Random House LLC,1762.236,1762.236,8811.18,5286.708,441,Bantam,big five,4.51,19.98,235,1092
+genre fiction,Random House LLC,435.128,435.128,2175.64,1305.384,436,Bantam,big five,4.44,4.99,238,4874
+genre fiction,"Amazon Digital Services,  Inc.",279.9225,150.7275,430.65,0.0,435,(Indie Publisher),indie,4.08,0.99,239,117
+genre fiction,Penguin Group (USA) LLC,1038.334,1038.334,5191.67,3115.002,433,Putnam Adult,big five,5.0,11.99,240,1
+genre fiction,Hachette Book Group,518.734,518.734,2593.67,1556.202,433,"Little, Brown and Company",big five,4.27,5.99,240,2221
+genre fiction,"Amazon Digital Services,  Inc.",85.338,85.338,426.69,256.014,431,(Small or Medium Publisher),small/medium,4.39,0.99,241,1436
+genre fiction,Random House LLC,85.14,85.14,425.7,255.42,430,Dell,big five,3.43,0.99,242,442
+genre fiction,Penguin Group (USA) LLC,1021.548,1021.548,5107.74,3064.644,426,Roc,big five,0.0,11.99,244,0
+genre fiction,"Amazon Digital Services,  Inc.",764.244,764.244,3821.22,2292.732,426,(Small or Medium Publisher),small/medium,4.57,8.97,244,154
+genre fiction,Macmillan,84.15,84.15,420.75,252.45,425,Entangled: Brazen,big five,4.64,0.99,245,223
+genre fiction,"Amazon Digital Services,  Inc.",506.331,1181.439,1687.77,0.0,423,(Indie Publisher),indie,4.39,3.99,246,137
+nonfiction,Random House LLC,894.6,894.6,4473.0,2683.8,420,Knopf,big five,4.16,10.65,248,42
+genre fiction,Macmillan,82.764,82.764,413.82,248.292,418,Entangled: Brazen,big five,4.45,0.99,249,55
+nonfiction,"Amazon Digital Services,  Inc.",267.696,144.144,411.84,0.0,416,(Indie Publisher),indie,4.67,0.99,250,246
+genre fiction,Random House LLC,414.17,414.17,2070.85,1242.51,415,Bantam,big five,3.69,4.99,251,5429
+genre fiction,"Amazon Digital Services,  Inc.",507.58,507.58,2537.9,1522.74,410,(Small or Medium Publisher),small/medium,4.36,6.19,254,47
+genre fiction,"Amazon Digital Services,  Inc.",365.976,853.944,1219.92,0.0,408,(Indie Publisher),indie,4.9,2.99,255,11
+genre fiction,"Amazon Digital Services,  Inc.",337.008,337.008,1685.04,1011.024,408,(Small or Medium Publisher),small/medium,4.28,4.13,255,4511
+nonfiction,Random House LLC,405.188,405.188,2025.94,1215.564,406,Vintage,big five,4.2,4.99,256,3452
+nonfiction,"Amazon Digital Services,  Inc.",450.36,450.36,2251.8,1351.08,405,(Small or Medium Publisher),small/medium,4.31,5.56,257,19
+genre fiction,HarperCollins Publishers,201.5,201.5,1007.5,604.5,403,William Morrow Paperbacks,big five,4.45,2.5,258,1594
+genre fiction,Penguin Group (USA) LLC,854.13,854.13,4270.65,2562.39,401,Putnam Adult,big five,4.57,10.65,259,7
+genre fiction,Penguin Group (USA) LLC,636.004,636.004,3180.02,1908.012,398,NAL,big five,4.62,7.99,261,45
+genre fiction,"Amazon Digital Services,  Inc.",78.408,78.408,392.04,235.224,396,(Small or Medium Publisher),small/medium,4.52,0.99,262,698
+genre fiction,"Amazon Digital Services,  Inc.",78.408,78.408,392.04,235.224,396,(Small or Medium Publisher),small/medium,4.04,0.99,262,69
+genre fiction,"Amazon Digital Services,  Inc.",77.418,77.418,387.09,232.254,391,(Single-Author Publisher),single author,4.46,0.99,265,147
+nonfiction,Hachette Book Group,545.22,545.22,2726.1,1635.66,390,"Little, Brown and Company",big five,4.59,6.99,266,1104
+nonfiction,Macmillan,230.828,230.828,1154.14,692.484,386,"Farrar, Straus and Giroux",big five,4.42,2.99,268,909
+genre fiction,Random House LLC,153.23,153.23,766.15,459.69,385,Anchor,big five,4.68,1.99,269,1636
+genre fiction,Penguin Group (USA) LLC,612.034,612.034,3060.17,1836.102,383,Berkley,big five,4.3,7.99,270,20
+genre fiction,"Amazon Digital Services,  Inc.",492.8235,265.3665,758.19,0.0,381,AmazonCrossing,amazon,4.0,1.99,271,224
+nonfiction,"Amazon Digital Services,  Inc.",602.742,602.742,3013.71,1808.226,381,(Single-Author Publisher),single author,4.72,7.91,271,3189
+genre fiction,Simon and Schuster Digital Sales Inc,227.24,227.24,1136.2,681.72,380,Margaret K. McElderry Books,big five,4.17,2.99,272,2730
+nonfiction,Penguin Group (USA) LLC,377.244,377.244,1886.22,1131.732,378,Viking Adult,big five,4.83,4.99,273,1011
+genre fiction,"Amazon Digital Services,  Inc.",224.848,224.848,1124.24,674.544,376,(Small or Medium Publisher),small/medium,4.12,2.99,274,247
+genre fiction,"Amazon Digital Services,  Inc.",241.3125,129.9375,371.25,0.0,375,(Indie Publisher),indie,3.99,0.99,275,1474
+genre fiction,Random House LLC,374.25,374.25,1871.25,1122.75,375,Delacorte Press,big five,4.28,4.99,275,1539
+genre fiction,"Amazon Digital Services,  Inc.",446.481,1041.789,1488.27,0.0,373,(Indie Publisher),indie,4.87,3.99,276,64
+genre fiction,Hachette Book Group,223.054,223.054,1115.27,669.162,373,Center Street,big five,4.5,2.99,276,86
+genre fiction,"Amazon Digital Services,  Inc.",238.095,128.205,366.3,0.0,370,(Indie Publisher),indie,4.77,0.99,278,473
+nonfiction,Hachette Book Group,555.0,555.0,2775.0,1665.0,370,"Little, Brown and Company",big five,4.04,7.5,278,1113
+genre fiction,Random House LLC,220.064,220.064,1100.32,660.192,368,Delacorte Press,big five,4.24,2.99,279,4268
+genre fiction,"Amazon Digital Services,  Inc.",328.302,766.038,1094.34,0.0,366,(Indie Publisher),indie,4.43,2.99,280,1101
+genre fiction,Penguin Group (USA) LLC,877.668,877.668,4388.34,2633.004,366,Putnam Adult,big five,0.0,11.99,280,0
+nonfiction,HarperCollins Publishers,816.87,816.87,4084.35,2450.61,365,Ecco,big five,4.18,11.19,281,27
+genre fiction,"Amazon Digital Services,  Inc.",1177.3905,633.9795,1811.37,0.0,363,Thomas & Mercer,amazon,3.8,4.99,282,5
+genre fiction,"Amazon Digital Services,  Inc.",217.074,217.074,1085.37,651.222,363,(Single-Author Publisher),single author,4.97,2.99,282,34
+genre fiction,"Amazon Digital Services,  Inc.",71.478,71.478,357.39,214.434,361,(Single-Author Publisher),single author,4.62,0.99,283,27
+genre fiction,Penguin Group (USA) LLC,215.878,215.878,1079.39,647.634,361,Berkley,big five,3.72,2.99,283,5468
+nonfiction,Random House LLC,781.156,781.156,3905.78,2343.468,358,Crown Forum,big five,4.76,10.91,285,2236
+genre fiction,Macmillan,212.888,212.888,1064.44,638.664,356,Minotaur Books,big five,4.73,2.99,286,94
+nonfiction,Simon and Schuster Digital Sales Inc,141.29,141.29,706.45,423.87,355,Simon & Schuster,big five,4.53,1.99,287,143
+genre fiction,"Amazon Digital Services,  Inc.",682.1685,367.3215,1049.49,0.0,351,47North,amazon,4.32,2.99,289,869
+nonfiction,"Amazon Digital Services,  Inc.",69.498,69.498,347.49,208.494,351,(Small or Medium Publisher),small/medium,4.3,0.99,289,26
+genre fiction,"Amazon Digital Services,  Inc.",225.225,121.275,346.5,0.0,350,(Indie Publisher),indie,4.18,0.99,290,109
+genre fiction,"Amazon Digital Services,  Inc.",223.938,120.582,344.52,0.0,348,(Indie Publisher),indie,4.61,0.99,291,34
+nonfiction,Simon and Schuster Digital Sales Inc,206.31,206.31,1031.55,618.93,345,Simon & Schuster,big five,4.65,2.99,293,1709
+genre fiction,"Amazon Digital Services,  Inc.",307.671,717.899,1025.57,0.0,343,(Indie Publisher),indie,4.92,2.99,294,13
+genre fiction,"Amazon Digital Services,  Inc.",662.7335,356.8565,1019.59,0.0,341,Montlake Romance,amazon,4.19,2.99,295,717
+fiction,Simon and Schuster Digital Sales Inc,203.918,203.918,1019.59,611.754,341,Simon & Schuster,big five,2.89,2.99,295,735
+genre fiction,Penguin Group (USA) LLC,774.52,774.52,3872.6,2323.56,340,Putnam Adult,big five,3.49,11.39,296,1035
+genre fiction,"Amazon Digital Services,  Inc.",1096.303,590.317,1686.62,0.0,338,Montlake Romance,amazon,4.41,4.99,297,68
+genre fiction,"Amazon Digital Services,  Inc.",1089.816,586.824,1676.64,0.0,336,47North,amazon,4.17,4.99,298,106
+genre fiction,HarperCollins Publishers,133.33,133.33,666.65,399.99,335,HarperCollins,big five,4.61,1.99,299,13
+genre fiction,Random House LLC,524.144,524.144,2620.72,1572.432,328,Broadway Books,big five,4.12,7.99,303,1874
+genre fiction,Penguin Group (USA) LLC,575.064,575.064,2875.32,1725.192,326,Berkley,big five,4.43,8.82,304,822
+genre fiction,"Amazon Digital Services,  Inc.",390.222,910.518,1300.74,0.0,326,(Indie Publisher),indie,4.67,3.99,304,448
